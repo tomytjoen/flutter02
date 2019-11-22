@@ -8,7 +8,7 @@ Buat aplikasi Flutter Sederhana dengan ketentuan:
 
 ## Screenshot
 
-![](docs/Screen Shot 2019-11-22 at 15.37.56.png) ![](docs/Screen Shot 2019-11-22 at 15.38.22.png)
+![](docs/Screen_Shot_2019-11-22_at_15.37.56.png) ![](docs/Screen_Shot_2019-11-22_at_15.38.22.png)
 
 ## Built With
 
