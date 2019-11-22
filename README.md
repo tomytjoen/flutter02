@@ -1,4 +1,5 @@
 # Tugas ke 2 Flutter ( {{kode_tugas}} )
+
 Buat aplikasi Flutter Sederhana dengan ketentuan:
 
 1. Menggunakan widget Image, Text, Row, Column, dan Icon dalam satu halaman.
@@ -6,24 +7,31 @@ Buat aplikasi Flutter Sederhana dengan ketentuan:
 3. Judul, deskripsi, icon, dan sebagainya bertemakan Hari Kemerdekaan Indonesia (17an).
 
 ## Screenshot
+
 ![](docs/Screen Shot 2019-11-22 at 15.37.56.png) ![](docs/Screen Shot 2019-11-22 at 15.38.22.png).
 
 ## Built With
+
 Menggunakan Visual Studio Code dengan bahasa DART.
 
 ## Created By
+
 TOMY DWI DAYANTO.
 
 ## {{jenis_kelas}} Eudeka!
+
 {{tentang_kelas}}.
 
 ## {{nama_kelas}}
+
 Dengan jangka waktu lebih kurang {{waktu_kelas}}, peserta diharapkan dapat {{tujuan_kelas}}.
 
 ## Cara Mendaftar {{jenis_kelas}}
+
 {{cara_daftar}}.
 
 ## Info Lebih Lengkap
+
 Website : [www.eudeka.id](https://www.eudeka.id).  
 Twitter: [@EudekaID](https://twitter.com/EudekaID).  
 Telegram : [@eudekainfo](https://t.me/eudekainfo).  
