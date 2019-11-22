@@ -6,13 +6,13 @@ Buat aplikasi Flutter Sederhana dengan ketentuan:
 3. Judul, deskripsi, icon, dan sebagainya bertemakan Hari Kemerdekaan Indonesia (17an).
 
 ## Screenshot
-![](docs/Screen Shot 2019-11-22 at 15.37.56.png) ![](docs/Screen Shot 2019-11-22 at 15.38.22.png)
+![](docs/Screen Shot 2019-11-22 at 15.37.56.png) ![](docs/Screen Shot 2019-11-22 at 15.38.22.png).
 
 ## Built With
-Menggunakan Visual Studio Code dengan bahasa DART
+Menggunakan Visual Studio Code dengan bahasa DART.
 
 ## Created By
-TOMY DWI DAYANTO
+TOMY DWI DAYANTO.
 
 ## {{jenis_kelas}} Eudeka!
 {{tentang_kelas}}.
