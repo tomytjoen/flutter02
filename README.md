@@ -1,4 +1,4 @@
-# Tugas ke 2 Flutter ( {{kode_tugas}} )
+# Tugas ke 2 Flutter ( TUGAS02 - OSG8 )
 
 Buat aplikasi Flutter Sederhana dengan ketentuan:
 
@@ -12,23 +12,23 @@ Buat aplikasi Flutter Sederhana dengan ketentuan:
 
 ## Built With
 
-Menggunakan Visual Studio Code dengan bahasa DART.
+[Flutter](https://flutter.dev) Menggunakan Visual Studio Code dengan bahasa DART.
 
 ## Created By
 
 TOMY DWI DAYANTO.
 
-## {{jenis_kelas}} Eudeka!
+## Online Study Group Eudeka!
 
-{{tentang_kelas}}.
+Salah satu program dari Eudeka! untuk belajar secara full online via Whatsapp/Telegram dan Google Classroom, dengan para praktisi handal di bidangnya. Selain itu juga kamu dapat berkesempatan untuk memperluas koneksimu dengan peserta lain.
 
-## {{nama_kelas}}
+## OSG08 - Flutter
 
-Dengan jangka waktu lebih kurang {{waktu_kelas}}, peserta diharapkan dapat {{tujuan_kelas}}.
+Dengan jangka waktu lebih kurang 2 bulan, peserta diharapkan dapat mengenal dan membuat aplikasi simple Flutter dengan menggunakan data dari internet (API).
 
-## Cara Mendaftar {{jenis_kelas}}
+## Cara Mendaftar Online Study Group
 
-{{cara_daftar}}.
+Untuk pendaftaran kelas selanjutnya, silahkan kunjungi atau hubungi kami di dawah ini.
 
 ## Info Lebih Lengkap
 
@@ -37,19 +37,4 @@ Twitter: [@EudekaID](https://twitter.com/EudekaID).
 Telegram : [@eudekainfo](https://t.me/eudekainfo).  
 Instagram : [@eudeka.id](https://instagram.com/eudeka.id).  
 WhatsApp : [0895351577557](https://wa.me/62895351577557).  
-Email : [info@eudeka.id](mailto:info@eudeka.id).  
-
-[nama_project]: Peserta
-[tentang_project]: Peserta
-[screenshot_project]: Peserta
-[teknologi_digunakan]: Peserta
-[nama_peserta]: Peserta
-
-[kode_tugas]: Eudeka
-[jenis_kelas]: Eudeka
-[nama_kelas]: Eudeka
-[tentang_kelas]: Eudeka
-[waktu_kelas]: Eudeka
-[tujuan_kelas]: Eudeka
-[cara_daftar]: Eudeka
-[kode_kelas]: Eudeka
+Email : [info@eudeka.id](mailto:info@eudeka.id).
